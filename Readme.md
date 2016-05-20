@@ -83,6 +83,7 @@ Mask | Description
 `dd` | Day of the month as digits; leading zero for single-digit days.
 `ddd` | Day of the week as a three-letter abbreviation.
 `dddd` | Day of the week as its full name.
+`z` | Day of the year as digits; 0 to 365.
 `m` | Month as digits; no leading zero for single-digit months.
 `mm` | Month as digits; leading zero for single-digit months.
 `mmm` | Month as a three-letter abbreviation.
